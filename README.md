@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+#### Tech Used: React.js, Node.js, Express, MongoDB, HTML, CSS, JavaScript, Material UI.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
